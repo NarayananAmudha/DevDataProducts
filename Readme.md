@@ -33,8 +33,10 @@ Result of the Processing will be displayed in right panel as table and charts in
 
 #### Notes
 App **GRABCAR** is developed as part of Project work to Coursera **Developing Data Products** course.
-Source code for ui.R and server.R files are available on the [GitHub](https://github.com/NarayananAmudha/DevDataProducts).
-App is available in shinyapps.io server as [GRABCAR](https://amudhanarayanan.shinyapps.io/GrabCar).
+- Source code for ui.R and server.R files are available on the [GitHub](https://github.com/NarayananAmudha/DevDataProducts).
+- App is available in shinyapps.io server as [GRABCAR](https://amudhanarayanan.shinyapps.io/GrabCar).
+- Pitch Presntation Slides for the App is available in [Rpubs](http://rpubs.com/NarayananAmudha/GrabCar).
+- 
 
 
 
